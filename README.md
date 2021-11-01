@@ -5,6 +5,8 @@
 
 - 📝 I regularly write articles on [https://dev.to/codewithtee](https://dev.to/codewithtee)
 
+<a href="https://app.daily.dev/Tabassum25"><img src="https://api.daily.dev/devcards/b88880a726bf4b918627a03fe7e3be36.png?r=0zy" width="400" alt="TABASSUM KHANUM's Dev Card"/></a>
+
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
