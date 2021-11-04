@@ -3,7 +3,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/tabassum2507](https://github.com/tabassum2507)
 
-- 📝 I regularly write articles on [https://dev.to/codewithtee](https://dev.to/codewithtee)
+- 📝 I regularly write articles on [https://dev.to/codewithtee](https://dev.to/codewithtee) and Tealfeed( https://tealfeed.com/codewithtee ) 
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
