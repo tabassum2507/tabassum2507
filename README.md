@@ -18,6 +18,8 @@ I regularly write articles on https://dev.to/codewithtee, Hashnode(https://teebl
 ## 🏆GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=tabassum2507&theme=juicyfresh&no-frame=false&no-bg=false&margin-w=4)
 
+<a href="https://app.daily.dev/Tabassum25"><img src="https://api.daily.dev/devcards/b88880a726bf4b918627a03fe7e3be36.png?r=7lv" width="400" alt="TABASSUM KHANUM's Dev Card"/></a>
+
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
