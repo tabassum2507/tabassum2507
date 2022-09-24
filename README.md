@@ -1,5 +1,5 @@
 # 💫About Me :
-Hey, I'm Tabassum Khanum a passionate web developer from India
+Hey, I'm Tabassum Khanum a passionate Web developer from India
  
  All of my projects are available at https://github.com/tabassum2507
 
