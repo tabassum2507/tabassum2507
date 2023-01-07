@@ -3,7 +3,7 @@ Hey, I'm Tabassum Khanum a passionate Web developer from India
  
  All of my projects are available at https://github.com/tabassum2507
 
-I regularly write articles on DEV Community(https://dev.to/codewithtee),Hashnode(https://teeblog.hashnode.dev/) and Tealfeed (https://tealfeed.com/codewithtee)
+I regularly write articles on DEV Community(https://dev.to/codewithtee), Hashnode(https://teeblog.hashnode.dev/) and Tealfeed (https://tealfeed.com/codewithtee)
 
 ## 🌐Socials
  [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/codewithtee) 
