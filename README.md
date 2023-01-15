@@ -16,7 +16,7 @@ I regularly write articles on DEV Community(https://dev.to/codewithtee), Hashnod
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=tabassum2507&theme=slateorange&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ## 🏆GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=tabassum2507&theme=juicyfresh&no-frame=false&no-bg=false&margin-w=4)
+## ![](https://github-profile-trophy.vercel.app/?username=tabassum2507&theme=juicyfresh&no-frame=false&no-bg=false&margin-w=4)
 
 <a href="https://app.daily.dev/Tabassum25"><img src="https://api.daily.dev/devcards/b88880a726bf4b918627a03fe7e3be36.png?r=7lv" width="400" alt="TABASSUM KHANUM's Dev Card"/></a>
 
