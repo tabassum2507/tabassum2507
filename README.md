@@ -1,5 +1,5 @@
 # 💫About Me :
-Hey, I'm Tabassum Khanum a passionate Frontend Developer from India
+Hey, I'm Tabassum Khanum a Frontend Developer from India
  
  All of my projects are available at https://github.com/tabassum2507
 
