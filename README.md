@@ -1,7 +1,7 @@
 # 💫About Me :
 Hey, I'm Tabassum Khanum a Frontend Developer from India
  
- All of my projects are available at https://github.com/tabassum2507
+All of my projects are available at https://github.com/tabassum2507
 
 I regularly write articles on DEV Community(https://dev.to/codewithtee), Hashnode(https://teeblog.hashnode.dev/) and Tealfeed (https://tealfeed.com/codewithtee)
 
